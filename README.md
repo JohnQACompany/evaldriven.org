@@ -51,4 +51,7 @@ This project embraces the principles of the Eval-Driven Development Manifesto, a
 
 Evaluaite is a risk-driven quality framework for AI systems, developed by QA Company. Traditional testing methods assume deterministic software: one input always leads to the same output. AI works differently. The same question can yield a different answer tomorrow. Evaluaite is designed for that reality. The framework links dominant AI risks to concrete quality dimensions and makes them measurable via metrics and thresholds, distributed across eight pillars. In this way, AI quality becomes something that teams can discuss, measure, and manage.
 
+<img width="638" height="637" alt="image" src="https://github.com/user-attachments/assets/a3945d52-deb8-4dfb-b5d3-70defc73a5db" />
+
+
 Learn more about Evaluaite on the [QA Company](https://qacompany.nl) website.
