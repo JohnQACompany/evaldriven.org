@@ -46,6 +46,7 @@ Definitions, datasets, thresholds, results. Version control. Changelogs. Documen
 
 "Works on my machine" vs. "passes at p < 0.05." That gap is where defensible products get built.
 
+## Evaluaite
 This project embraces the principles of the Eval-Driven Development Manifesto, and our Evaluaite framework fully implements principles 2 and 3 in day-to-day practice.
 
 Evaluaite is a risk-driven quality framework for AI systems, developed by QA Company. Traditional testing methods assume deterministic software: one input always leads to the same output. AI works differently. The same question can yield a different answer tomorrow. Evaluaite is designed for that reality. The framework links dominant AI risks to concrete quality dimensions and makes them measurable via metrics and thresholds, distributed across eight pillars. In this way, AI quality becomes something that teams can discuss, measure, and manage.
